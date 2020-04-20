@@ -38,5 +38,5 @@
   "devDependencies": {
     "gh-pages": "^2.2.0"
   },
-  "homepage": "https://dimgolsh.github.io/react-gotap-db/"
+  "homepage": "https://dimgolsh.github.io/react-redux-resto/"
 }

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-redux-resto/static/css/main.b6fb1074.chunk.css",
+    "main.js": "/react-redux-resto/static/js/main.0f22ec61.chunk.js",
+    "main.js.map": "/react-redux-resto/static/js/main.0f22ec61.chunk.js.map",
+    "runtime-main.js": "/react-redux-resto/static/js/runtime-main.f09de9ed.js",
+    "runtime-main.js.map": "/react-redux-resto/static/js/runtime-main.f09de9ed.js.map",
+    "static/js/2.b32d15af.chunk.js": "/react-redux-resto/static/js/2.b32d15af.chunk.js",
+    "static/js/2.b32d15af.chunk.js.map": "/react-redux-resto/static/js/2.b32d15af.chunk.js.map",
+    "index.html": "/react-redux-resto/index.html",
+    "precache-manifest.524ebb55844c342c8b9bfafc1ad43eb5.js": "/react-redux-resto/precache-manifest.524ebb55844c342c8b9bfafc1ad43eb5.js",
+    "service-worker.js": "/react-redux-resto/service-worker.js",
+    "static/css/main.b6fb1074.chunk.css.map": "/react-redux-resto/static/css/main.b6fb1074.chunk.css.map",
+    "static/js/2.b32d15af.chunk.js.LICENSE.txt": "/react-redux-resto/static/js/2.b32d15af.chunk.js.LICENSE.txt",
+    "static/media/food-bg.jpg": "/react-redux-resto/static/media/food-bg.698e5e80.jpg",
+    "static/media/shopping-cart-solid.svg": "/react-redux-resto/static/media/shopping-cart-solid.701d6d1d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f09de9ed.js",
+    "static/js/2.b32d15af.chunk.js",
+    "static/css/main.b6fb1074.chunk.css",
+    "static/js/main.0f22ec61.chunk.js"
+  ]
+}
